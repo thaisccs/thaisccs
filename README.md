@@ -8,7 +8,7 @@ Você pode saber mais sobre minhas habilidades, experiências profissionais e co
 
 <div>
 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thaisccs/" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 
 <div>
 
